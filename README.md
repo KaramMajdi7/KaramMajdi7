@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Palaver](https://web-production-a90e.up.railway.app/)
 
-- 👨‍💻 All of my projects are available at [http://karammajdi.pythonanywhere.com/](http://karammajdi.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [https://karam.up.railway.app/](https://karam.up.railway.app/)
 
 - 💬 Ask me about **Python, Django, Flutter**
 
