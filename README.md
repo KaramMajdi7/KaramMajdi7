@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/karammajdi3" target="blank"><img src="https://img.shields.io/twitter/follow/karammajdi3?logo=twitter&style=for-the-badge" alt="karammajdi3" /></a> </p>
 
-- 🔭 I’m currently working on [STEMulate](https://www.stemulate.us/)
+- 🔭 I’m currently working at [NARD](https://nardpos.com/)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **NestJS**
 
 - 👯 I’m looking to collaborate on [Palaver](https://web-production-a90e.up.railway.app/)
 
 - 👨‍💻 All of my projects are available at [https://karam.up.railway.app/](https://karam.up.railway.app/)
 
-- 💬 Ask me about **Python, Django, Flutter**
+- 💬 Ask me about **Python, Django, TypeScript, NestJS**
 
 - 📫 How to reach me **karam.majdi33@gmail.com**
 
