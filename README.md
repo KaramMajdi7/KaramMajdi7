@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Karam Majdi Mansour</h1>
-<h3 align="center">Software Development Engineer | Edchart Certified Laravel SME</h3>
+<h3 align="center">Software Engineer | Cloud & Backend Specialist</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karammajdi7" alt="karammajdi7" /></a>
-</p>
-
-<p align="center"> 
-  <a href="https://twitter.com/karammajdi3" target="blank"><img src="https://img.shields.io/twitter/follow/karammajdi3?logo=twitter&style=for-the-badge" alt="karammajdi3" /></a>
-</p>
-
-- 🔭 I’m currently working at **[Salla](https://salla.com/)** in Global Market Readiness
-- 💼 Formerly SDE I at **Amazon**
-- 📜 **Edchart Certified Laravel Developer Subject Matter Expert (SME)**
-- 👯 Open to collaboration on full-stack web architectures and open-source backend tools
-- 💬 Ask me about **Laravel, PHP, React, Node.js, Python, Docker & Containerized Architectures**
+- 🔭 I’m currently working at **[Salla](https://salla.com/)**
+- 💼 Formerly SDE at **Amazon**
+- 💬 Ask me about **Laravel, PHP, Python, TypeScript, Docker, AWS, & Distributed Systems Architecture**
 - 📫 How to reach me: **karam.majdi33@gmail.com**
-- 📄 Connect on LinkedIn: **[Karam Mansour](https://www.linkedin.com/in/karam-majdi-195549222/)**
+- 📄 Connect on LinkedIn: **[Karam Mansour](https://www.linkedin.com/in/karam-majdi/)**
+
+<h3 align="left">🎓 Certifications & Achievements</h3>
+
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🎯 **AWS Certified Solutions Architect – Associate**
+- 📜 **Edchart Certified Laravel Developer Subject Matter Expert (SME)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +27,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Backend & Frameworks -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
